@@ -10,6 +10,8 @@ The data set of customers' shopping behavior is stored in the file: shopping.csv
 
 The main file: psrs.py
 
+Introduction:
+
 1. PSRS provides an interface that requires us to type in a customer's name (for example: C) and a smartphone brand (for example: S).
 
 2. Based on the analysis on the data set of shopping behavior, PSRS returns following similarity information:
