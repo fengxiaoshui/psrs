@@ -24,4 +24,4 @@ The main file: psrs.py
     probability that C may like the corresponding smartphone.
     
     3.b) A customer remcommendation list for S: Each customer has a recommendation value. The higher value means the higher probability
-    that S may be liked by the corresponding customers.
+    that S may be liked by the corresponding customer.
