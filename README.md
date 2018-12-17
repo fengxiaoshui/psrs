@@ -7,6 +7,7 @@ Language: Python
 The goal of this project is to build a personalized smartphone recommendation system (PSRS) based on customers' shopping behavior for smartphones.
 
 The data set of customers' shopping behavior is stored in the file: shopping.csv
+
 The main file: psrs.py
 
 1. PSRS provides an interface that requires us to type in a customer's name (for example: C) and a smartphone brand (for example: S).
