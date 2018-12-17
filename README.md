@@ -1,4 +1,4 @@
-# PSRS readme
+# PSRS Readme
 
 Personalized Smartphone Recommendation System
 
@@ -25,5 +25,5 @@ Introduction:
     3.a) A smartphone recommendation list for C. Each smartphone brand has a recommendation value. The higher value means the higher 
     probability that C may like the corresponding smartphone.
     
-    3.b) A customer remcommendation list for S: Each customer has a recommendation value. The higher value means the higher probability
+    3.b) A customer recommendation list for S: Each customer has a recommendation value. The higher value means the higher probability
     that S may be liked by the corresponding customer.
